@@ -6,7 +6,7 @@ package:
 source:
   fn: kiwisolver-{{ version }}.tar.gz
   url: https://github.com/nucleic/kiwi/archive/{{ version }}.tar.gz
-  sha256: ce3be5d520b4d2c3e5eeb4cd2ef62b9b9ab8ac6b6fedbaa0e39cdb6f50644278
+  sha256: 8e7fc64fea6d3af96aed63391d35bbbd292a429c8e463277dac839b735503a28
 
 build:
   number: 0
